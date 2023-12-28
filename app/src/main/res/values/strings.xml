@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MegaSena</string>
+    <string name="title">Gerador de aposta</string>
+    <string name="number_hint">Digite um número entre 6 e 15</string>
+    <string name="number_generator">Gerar números</string>
+
+</resources>
